@@ -20,5 +20,5 @@
 
 ## 🛡ライセンス
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)  
-著作者: Shirona Takizaki  
+著作者: 滝咲白菜（Shirona Takizaki）
 商業利用は禁止されており、継承ライセンスの適用が義務づけられています。
