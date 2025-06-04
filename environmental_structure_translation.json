@@ -277,7 +277,7 @@
           "label": "構成例",
           "Content": [
             "meta": "当ファイルの環境構造に含まれる記述が例である。",
-            "file": " 具体例_理解促進構造.json に記述"
+            "file": " example_structure_for_comprehension.json に記述"
           ]
         }
       ],
