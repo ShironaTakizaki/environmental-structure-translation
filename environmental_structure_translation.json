@@ -283,8 +283,8 @@
         {
           "label": "構成例",
           "Content": [
-            "meta": "当ファイルの環境構造に含まれる記述が例である。",
-            "file": " example_structure_for_comprehension.json に記述"
+            {"meta": "当ファイルの環境構造に含まれる記述が例である。"},
+            {"file": " example_structure_for_comprehension.json に記述"}
           ]
         }
       ],
