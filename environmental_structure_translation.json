@@ -85,7 +85,7 @@
             {
               "label": "Trigger（条件）",
               "Content": "発動構造 AND 択一的操作",
-              "semantic_hint": "時間・構造的スイッチポイント",
+              "semantic_hint": "時間・構造的な閾値",
               "Link_to_5W2H": "When"
             },
             {
