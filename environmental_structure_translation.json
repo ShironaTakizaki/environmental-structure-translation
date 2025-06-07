@@ -593,5 +593,10 @@
         "厳密性"
       ],
     }
-  ]
+  ],
+  "credit": {
+    "author": "滝咲白菜（Shirona Takizaki）",
+    "license": "CC BY-NC-SA 4.0",
+    "url": "https://github.com/ShironaTakizaki/environmental-structure-translation"
+  }
 }
