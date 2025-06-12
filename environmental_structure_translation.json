@@ -56,12 +56,12 @@
           "Content": [
             {
               "label": "理念（Noetic）",
-              "Content": "行動の価値的な起点。構造全体の方向性と正当性の源泉。理念は、行動の価値的起点として射構造（Principle → Effect → Conclusion）を内包する。これにより、理念は静的価値ではなく動的展開の構造起点である。"
+              "Content": "行動の価値的な起点。構造全体の方向性と正当性の源泉。理念は、行動の価値的起点として射構造（Principle → Effect → Conclusion）を内包する。これにより、理念は静的価値ではなく動的展開の構造起点である。",
               "Link_to_5W2H": "Why"
             },
             {
               "label": "動因（Motivic）",
-              "Content": "理念を構造的運動へと変換する起動構造。Principle → Effect への具現化を導く。"
+              "Content": "理念を構造的運動へと変換する起動構造。Principle → Effect への具現化を導く。",
               "semantic_hint": "射の前方駆動成分（一次導関数的性質）"
             },
             {
