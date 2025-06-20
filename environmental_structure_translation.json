@@ -124,6 +124,10 @@
               "semantic_hint": "点と点以外の境界線。発動と制約、択一と相対を分ける輪郭線。",
               "Link_to_5W2H": "Separate of [When, Where]-[How, HowMuch] or [When, How]-[Where, HowMuch] or [Who]-[What]"
             },
+            {
+              "label": "Luck（運・評価不能領域・信用の揺らぎ）",
+              "Content": "構造に非可逆的な変化を生じさせる外的発動。因果的説明を拒絶し、構造記述の限界点として現れる。",
+            },
           ]
         },
         {"label": "目的", "Content": "複雑な意思決定や記述構文の背後にある抽象的構造を明示し、記述・評価・反省の対象として可視化する。"},
